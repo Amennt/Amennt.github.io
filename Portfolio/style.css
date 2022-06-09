@@ -1,0 +1,98 @@
+/* padding: 0rem 13rem; */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    font-family: "Gibson";
+    min-height: 100vh;
+    background: url("./img/HomePageIntro.png");
+    background-size: cover;
+}
+
+.landing{
+    min-height: 100vh;
+    background: url("./img/HomePage.png");
+    background-size: cover;
+}
+
+nav{
+    color: rgb(31, 31, 31);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 10vh;
+    background-color: white;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    padding-left: 10rem ;
+    padding-right: 10rem;
+}
+
+.nav-links li{
+    padding-left: 7rem;
+    font-weight: 400;
+}
+
+.nav-logo{
+    align-items: center;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.img-logo{
+    padding-right: 1rem;
+}
+
+.img-logo img{
+    max-height: 5vh;
+}
+
+.intro{
+    backdrop-filter: blur(50px);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider{
+    background-color: #593368;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(100%);
+}
+
+.intro-text{
+    color: rgb(243, 243, 243);
+    font-family: "Gibson";
+    font-weight: 300;
+    font-size: 3rem;
+
+}
+
+.hide{
+    overflow: hidden;
+}
+
+.hide span{
+    transform: translateY(100%);
+    display: inline-block;
+}
+
