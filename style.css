@@ -181,6 +181,7 @@ body {
     padding: 0;
     justify-content: center;
     gap: 100px;
+    height: 200px;
   }
 
   .moveUp {
