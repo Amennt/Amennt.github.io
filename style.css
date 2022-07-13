@@ -187,10 +187,36 @@ body {
     display: none;
   }
 
+  .center p {
+    font-size: 70px;
+  }
+
+  .center b {
+    font-size: 75px;
+  }
+
+  .center button {
+    margin-top: 150px;
+    padding: 40px 75px;
+    border-radius: 30px;
+    font-size: 60px;
+    box-shadow: 0 15px 50px rgba(42, 159, 209, 0.3);
+  }
+
+  .center img {
+    height: 100px;
+    margin-right: 20px;
+  }
+
   .navBtnDiscord {
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+
+  .navBtnDiscord img {
+    height: 50px;
+    margin-right: 20px;
   }
 
   .navBtnDiscord button {
@@ -203,10 +229,5 @@ body {
     color: #fff;
     font-size: 30px;
     font-weight: 700;
-  }
-
-  .navBtnDiscord img {
-    height: 50px;
-    margin-right: 20px;
   }
 }
