@@ -1,0 +1,11 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  width: 1200px;
+}
+
+.NavbarButtons{
+    gap: 20px;
+}
