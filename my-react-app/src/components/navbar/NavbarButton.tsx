@@ -6,7 +6,13 @@ interface NavbarButtonName {
 }
 
 const NavbarButton: React.FC<NavbarButtonName> = (props: NavbarButtonName) => {
-  return <button className='navbarButton'>{props.buttonName}</button>;
+  /* let titleName = `#${props.buttonName}`;*/
+
+  return (
+    <a href='#' className='navbarButton'>
+      {props.buttonName}
+    </a>
+  );
 };
 
 export default NavbarButton;
