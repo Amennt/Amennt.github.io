@@ -1,4 +1,13 @@
 .navbarButton {
-  padding: 10px 20px;
+  padding: 15px 30px;
   border: none;
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s;
+  border-radius: 4px;
+}
+
+.navbarButton:hover {
+  background-color: #e28734;
+  font-size: 20px;
 }
