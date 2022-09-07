@@ -32,7 +32,7 @@ namespace Game
             }
             if (player == Winner.Noone)
             {
-                Console.WriteLine("Noone won! Let's start one more time.");
+                Console.WriteLine("Noone win the game.");
             }
         }
     }
