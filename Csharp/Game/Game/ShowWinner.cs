@@ -8,23 +8,17 @@ namespace Game
 {
     public interface IShowWinner
     {
-        void GetShowWinner();
+        void GetShowWinner(string computerChoice, string userChoice);
     }
     public class ShowWinner : IShowWinner
     {
         private readonly IComparisor _comparisor;
-        private readonly IUserInputService _userInputService;
-        private readonly IRandomChoice _randomChoice;
-        public ShowWinner(IComparisor comparisor, IUserInputService userInputService, IRandomChoice randomChoice)
+        public ShowWinner(IComparisor comparisor)
         {
             _comparisor = comparisor;
-            _userInputService = userInputService;
-            _randomChoice = randomChoice;
         }
-        public void GetShowWinner()
+        public void GetShowWinner(string computerChoice, string userChoice)
         {
-            string userChoice = _userInputService.GetUserInput();
-            string computerChoice = _randomChoice.GetRandomChoice();
 
             Winner player = _comparisor.FindWinner(computerChoice, userChoice);
             

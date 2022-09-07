@@ -48,7 +48,7 @@ namespace Game
 
             } while (_comparisor.FindWinner(randomComputerChoice, userChoice) == Winner.Noone);
 
-            _showWinner.GetShowWinner();
+            _showWinner.GetShowWinner(randomComputerChoice, userChoice);
 
             Console.ReadLine();
         }
