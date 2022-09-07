@@ -1,0 +1,15 @@
+D:\Graphic\Visual Studio\Csharp\Game\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+D:\Graphic\Visual Studio\Csharp\Game\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graphic\Visual Studio\Csharp\Game\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+D:\Graphic\Visual Studio\Csharp\Game\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+D:\Graphic\Visual Studio\Csharp\Game\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+D:\Graphic\Visual Studio\Csharp\Game\Game\bin\Debug\net6.0\Game.exe
+D:\Graphic\Visual Studio\Csharp\Game\Game\bin\Debug\net6.0\Game.deps.json
+D:\Graphic\Visual Studio\Csharp\Game\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+D:\Graphic\Visual Studio\Csharp\Game\Game\bin\Debug\net6.0\Game.dll
+D:\Graphic\Visual Studio\Csharp\Game\Game\bin\Debug\net6.0\Game.pdb
+D:\Graphic\Visual Studio\Csharp\Game\Game\obj\Debug\net6.0\Game.dll
+D:\Graphic\Visual Studio\Csharp\Game\Game\obj\Debug\net6.0\refint\Game.dll
+D:\Graphic\Visual Studio\Csharp\Game\Game\obj\Debug\net6.0\Game.pdb
+D:\Graphic\Visual Studio\Csharp\Game\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache
+D:\Graphic\Visual Studio\Csharp\Game\Game\obj\Debug\net6.0\ref\Game.dll

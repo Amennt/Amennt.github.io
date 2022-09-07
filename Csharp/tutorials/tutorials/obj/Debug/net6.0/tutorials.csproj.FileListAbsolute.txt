@@ -1,0 +1,15 @@
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\bin\Debug\net6.0\tutorials.exe
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\bin\Debug\net6.0\tutorials.deps.json
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\bin\Debug\net6.0\tutorials.runtimeconfig.json
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\bin\Debug\net6.0\tutorials.dll
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\bin\Debug\net6.0\tutorials.pdb
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\obj\Debug\net6.0\tutorials.csproj.AssemblyReference.cache
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\obj\Debug\net6.0\tutorials.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\obj\Debug\net6.0\tutorials.AssemblyInfoInputs.cache
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\obj\Debug\net6.0\tutorials.AssemblyInfo.cs
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\obj\Debug\net6.0\tutorials.csproj.CoreCompileInputs.cache
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\obj\Debug\net6.0\tutorials.dll
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\obj\Debug\net6.0\refint\tutorials.dll
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\obj\Debug\net6.0\tutorials.pdb
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\obj\Debug\net6.0\tutorials.genruntimeconfig.cache
+D:\Graphic\Visual Studio\Csharp\tutorials\tutorials\obj\Debug\net6.0\ref\tutorials.dll
